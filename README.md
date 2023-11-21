@@ -57,6 +57,7 @@ The `jenkinsfile` can be used to replicate the pipeline
 This project is based on the master theses:
 Kerim Gencer und Chrisowalandis Deligio: [Natural Language Processing auf mehrsprachigen Münzdatensätzen – Untersuchung der Qualität, Datenqualität und Übertragbarkeit auf andere Datensätze](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterthesis_Deligio_Gencer_DBISOnline.pdf)
 
+------------
 
 ## TODO ##
 
