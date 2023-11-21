@@ -1,0 +1,4 @@
+{"databse" : {
+"output_dir":"../trained_model/ner/english/",
+"model_name": "english_ner",
+"language": "en"}

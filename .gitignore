@@ -1,0 +1,7 @@
+
+cnt/trained_model/ner/*
+cnt/trained_model/re/*
+Notebooks English/*
+Notebooks German/*
+NLP_API/*
+**/.DS_Store
