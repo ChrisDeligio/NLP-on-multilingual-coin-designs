@@ -29,6 +29,8 @@ The process consists of two main steps:
 
 
 -----------
+The py scripts around the models can be found here: `Docker/cnt/*`
+The files in `Docker/*` are mainly for the automation process / creating the API.
 
 To test the model, you can use the `Docker/dockerfile` to create a container with all the necessary dependencies. 
 
@@ -55,6 +57,13 @@ The `jenkinsfile` can be used to replicate the pipeline
 This project is based on the master theses:
 Kerim Gencer und Chrisowalandis Deligio: [Natural Language Processing auf mehrsprachigen Münzdatensätzen – Untersuchung der Qualität, Datenqualität und Übertragbarkeit auf andere Datensätze](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterthesis_Deligio_Gencer_DBISOnline.pdf)
 
+
+## TODO ##
+
+- Structure of py scripts
+- Automate hyperparamter search in pipeline
+- Automate gridsearch in pipeline
+- Automate Cross Validation in pipeline
 -----------
 ## Reference
 - https://www.corpus-nummorum.eu/
